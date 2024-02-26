@@ -1,5 +1,3 @@
-# Theater-Booking-System
-
 # C++ Theater Booking System
 
 This C++ project implements a simple Theater Booking System, allowing users to interactively book and cancel seats in a theater. The system provides features such as seat visualization, ticket booking, cancellation, and more.
